@@ -1,19 +1,22 @@
 [
     {
         "levelId": 1,
-        "title": "Mission",
-        "body": "Description 1"
+        "title": "Bane 1",
+        "body": "Nå målet ved at indsætte værdier ind i metodekaldene."
     },
     {
         "levelId": 2,
-        "title": "Mission",
-        "body": "Description 2"
+        "title": "Bane 2",
+        "body": "Nå målet ved at indsætte værdier ind i metodekaldene."
     },
     {
         "levelId": 3,
-        "title": "Mission",
-        "body": "Description 3"
+        "title": "Bane 3",
+        "body": "Nå målet ved at indsætte værdier ind i metodekaldene."
+    }
+    {
+        "levelId": 4,
+        "title": "Bane 4",
+        "body": "Nå målet ved at indsætte værdier ind i metodekaldene."  
     }
 ]
-
-    
